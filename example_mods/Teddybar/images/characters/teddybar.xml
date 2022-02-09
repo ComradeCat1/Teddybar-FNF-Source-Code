@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Teddybar_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Teddybar Sing Note DOWN0000" x="0" y="0" width="391" height="731"/>
+	<SubTexture name="Teddybar Sing Note DOWN0001" x="0" y="0" width="391" height="731"/>
+	<SubTexture name="Teddybar Sing Note DOWN0002" x="391" y="0" width="391" height="729" frameX="0" frameY="-2" frameWidth="391" frameHeight="731"/>
+	<SubTexture name="Teddybar Sing Note DOWN0003" x="391" y="0" width="391" height="729" frameX="0" frameY="-2" frameWidth="391" frameHeight="731"/>
+	<SubTexture name="Teddybar Sing Note DOWN0004" x="391" y="0" width="391" height="729" frameX="0" frameY="-2" frameWidth="391" frameHeight="731"/>
+	<SubTexture name="Teddybar Sing Note DOWN0005" x="391" y="0" width="391" height="729" frameX="0" frameY="-2" frameWidth="391" frameHeight="731"/>
+	<SubTexture name="Teddybar Sing Note DOWN0006" x="391" y="0" width="391" height="729" frameX="0" frameY="-2" frameWidth="391" frameHeight="731"/>
+	<SubTexture name="Teddybar Sing Note LEFT0000" x="782" y="0" width="370" height="743"/>
+	<SubTexture name="Teddybar Sing Note LEFT0001" x="782" y="0" width="370" height="743"/>
+	<SubTexture name="Teddybar Sing Note LEFT0002" x="1152" y="0" width="369" height="743" frameX="0" frameY="0" frameWidth="370" frameHeight="743"/>
+	<SubTexture name="Teddybar Sing Note LEFT0003" x="1152" y="0" width="369" height="743" frameX="0" frameY="0" frameWidth="370" frameHeight="743"/>
+	<SubTexture name="Teddybar Sing Note LEFT0004" x="1152" y="0" width="369" height="743" frameX="0" frameY="0" frameWidth="370" frameHeight="743"/>
+	<SubTexture name="Teddybar Sing Note LEFT0005" x="1152" y="0" width="369" height="743" frameX="0" frameY="0" frameWidth="370" frameHeight="743"/>
+	<SubTexture name="Teddybar Sing Note LEFT0006" x="1152" y="0" width="369" height="743" frameX="0" frameY="0" frameWidth="370" frameHeight="743"/>
+	<SubTexture name="Teddybar Sing Note RIGHT0000" x="1521" y="0" width="392" height="730" frameX="0" frameY="0" frameWidth="395" frameHeight="730"/>
+	<SubTexture name="Teddybar Sing Note RIGHT0001" x="1521" y="0" width="392" height="730" frameX="0" frameY="0" frameWidth="395" frameHeight="730"/>
+	<SubTexture name="Teddybar Sing Note RIGHT0002" x="1913" y="0" width="394" height="730" frameX="0" frameY="0" frameWidth="395" frameHeight="730"/>
+	<SubTexture name="Teddybar Sing Note RIGHT0003" x="1913" y="0" width="394" height="730" frameX="0" frameY="0" frameWidth="395" frameHeight="730"/>
+	<SubTexture name="Teddybar Sing Note RIGHT0004" x="2307" y="0" width="395" height="730"/>
+	<SubTexture name="Teddybar Sing Note RIGHT0005" x="2307" y="0" width="395" height="730"/>
+	<SubTexture name="Teddybar Sing Note UP0000" x="2702" y="0" width="379" height="735" frameX="0" frameY="-2" frameWidth="379" frameHeight="737"/>
+	<SubTexture name="Teddybar Sing Note UP0001" x="2702" y="0" width="379" height="735" frameX="0" frameY="-2" frameWidth="379" frameHeight="737"/>
+	<SubTexture name="Teddybar Sing Note UP0002" x="3081" y="0" width="379" height="736" frameX="0" frameY="-1" frameWidth="379" frameHeight="737"/>
+	<SubTexture name="Teddybar Sing Note UP0003" x="3081" y="0" width="379" height="736" frameX="0" frameY="-1" frameWidth="379" frameHeight="737"/>
+	<SubTexture name="Teddybar Sing Note UP0004" x="3460" y="0" width="379" height="737"/>
+	<SubTexture name="Teddybar idle dance0000" x="0" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0001" x="0" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0002" x="384" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0003" x="384" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0004" x="768" y="743" width="383" height="729" frameX="0" frameY="-1" frameWidth="384" frameHeight="730"/>
+	<SubTexture name="Teddybar idle dance0005" x="768" y="743" width="383" height="729" frameX="0" frameY="-1" frameWidth="384" frameHeight="730"/>
+	<SubTexture name="Teddybar idle dance0006" x="768" y="743" width="383" height="729" frameX="0" frameY="-1" frameWidth="384" frameHeight="730"/>
+	<SubTexture name="Teddybar idle dance0007" x="768" y="743" width="383" height="729" frameX="0" frameY="-1" frameWidth="384" frameHeight="730"/>
+	<SubTexture name="Teddybar idle dance0008" x="384" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0009" x="384" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0010" x="0" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0011" x="0" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0012" x="0" y="743" width="384" height="730"/>
+	<SubTexture name="Teddybar idle dance0013" x="0" y="743" width="384" height="730"/>
+</TextureAtlas>

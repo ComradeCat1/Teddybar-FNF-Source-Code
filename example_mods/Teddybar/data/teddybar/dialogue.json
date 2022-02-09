@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Who are you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Boyfriend? Ok",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		},
+		{
+			"expression": "talk",
+			"text": "I am everyone's favorite German Teddy Bear!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, it looks like you have a mic. Do you wanna sing a song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep! (yes)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, then...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		},
+		{
+			"expression": "talk",
+			"text": "Here we go!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "teddybar"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Teddybar_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Teddybar LOOP0000" x="0" y="0" width="320" height="511" frameX="-6" frameY="0" frameWidth="326" frameHeight="515"/>
+	<SubTexture name="Teddybar LOOP0001" x="320" y="0" width="322" height="511" frameX="0" frameY="-4" frameWidth="326" frameHeight="515"/>
+	<SubTexture name="Teddybar LOOP0002" x="642" y="0" width="320" height="510" frameX="-6" frameY="-1" frameWidth="326" frameHeight="515"/>
+	<SubTexture name="Teddybar00000" x="0" y="511" width="320" height="511"/>
+</TextureAtlas>

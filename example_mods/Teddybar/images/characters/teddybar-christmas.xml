@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="teddybar-christmas.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Teddybar Christmas down0000" x="0" y="0" width="392" height="763" frameX="0" frameY="0" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas down0001" x="0" y="0" width="392" height="763" frameX="0" frameY="0" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas down0002" x="392" y="0" width="392" height="761" frameX="-1" frameY="-2" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas down0003" x="392" y="0" width="392" height="761" frameX="-1" frameY="-2" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas down0004" x="392" y="0" width="392" height="761" frameX="-1" frameY="-2" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas down0005" x="392" y="0" width="392" height="761" frameX="-1" frameY="-2" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas down0006" x="392" y="0" width="392" height="761" frameX="-1" frameY="-2" frameWidth="393" frameHeight="763"/>
+	<SubTexture name="Teddybar Christmas hey0000" x="784" y="0" width="428" height="756" frameX="0" frameY="-6" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0001" x="784" y="0" width="428" height="756" frameX="0" frameY="-6" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0002" x="784" y="0" width="428" height="756" frameX="0" frameY="-6" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0003" x="1212" y="0" width="428" height="758" frameX="0" frameY="-4" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0004" x="1212" y="0" width="428" height="758" frameX="0" frameY="-4" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0005" x="1212" y="0" width="428" height="758" frameX="0" frameY="-4" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0006" x="1640" y="0" width="428" height="758" frameX="0" frameY="0" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0007" x="1640" y="0" width="428" height="758" frameX="0" frameY="0" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0008" x="1640" y="0" width="428" height="758" frameX="0" frameY="0" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas hey0009" x="1640" y="0" width="428" height="758" frameX="0" frameY="0" frameWidth="428" frameHeight="762"/>
+	<SubTexture name="Teddybar Christmas idle0000" x="2068" y="0" width="384" height="760"/>
+	<SubTexture name="Teddybar Christmas idle0001" x="2068" y="0" width="384" height="760"/>
+	<SubTexture name="Teddybar Christmas idle0002" x="2452" y="0" width="384" height="755" frameX="0" frameY="-5" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0003" x="2452" y="0" width="384" height="755" frameX="0" frameY="-5" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0004" x="2836" y="0" width="383" height="754" frameX="0" frameY="-6" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0005" x="2836" y="0" width="383" height="754" frameX="0" frameY="-6" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0006" x="2836" y="0" width="383" height="754" frameX="0" frameY="-6" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0007" x="2836" y="0" width="383" height="754" frameX="0" frameY="-6" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0008" x="2452" y="0" width="384" height="755" frameX="0" frameY="-5" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0009" x="2452" y="0" width="384" height="755" frameX="0" frameY="-5" frameWidth="384" frameHeight="760"/>
+	<SubTexture name="Teddybar Christmas idle0010" x="2068" y="0" width="384" height="760"/>
+	<SubTexture name="Teddybar Christmas idle0011" x="2068" y="0" width="384" height="760"/>
+	<SubTexture name="Teddybar Christmas idle0012" x="2068" y="0" width="384" height="760"/>
+	<SubTexture name="Teddybar Christmas idle0013" x="2068" y="0" width="384" height="760"/>
+	<SubTexture name="Teddybar Christmas left0000" x="3219" y="0" width="421" height="751" frameX="-1" frameY="-1" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas left0001" x="3219" y="0" width="421" height="751" frameX="-1" frameY="-1" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas left0002" x="3640" y="0" width="421" height="752" frameX="0" frameY="0" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas left0003" x="3640" y="0" width="421" height="752" frameX="0" frameY="0" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas left0004" x="3640" y="0" width="421" height="752" frameX="0" frameY="0" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas left0005" x="3640" y="0" width="421" height="752" frameX="0" frameY="0" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas left0006" x="3640" y="0" width="421" height="752" frameX="0" frameY="0" frameWidth="422" frameHeight="752"/>
+	<SubTexture name="Teddybar Christmas right0000" x="0" y="763" width="392" height="758" frameX="0" frameY="0" frameWidth="395" frameHeight="758"/>
+	<SubTexture name="Teddybar Christmas right0001" x="0" y="763" width="392" height="758" frameX="0" frameY="0" frameWidth="395" frameHeight="758"/>
+	<SubTexture name="Teddybar Christmas right0002" x="392" y="763" width="394" height="758" frameX="0" frameY="0" frameWidth="395" frameHeight="758"/>
+	<SubTexture name="Teddybar Christmas right0003" x="392" y="763" width="394" height="758" frameX="0" frameY="0" frameWidth="395" frameHeight="758"/>
+	<SubTexture name="Teddybar Christmas right0004" x="786" y="763" width="395" height="758"/>
+	<SubTexture name="Teddybar Christmas right0005" x="786" y="763" width="395" height="758"/>
+	<SubTexture name="Teddybar Christmas up0000" x="1181" y="763" width="401" height="750" frameX="0" frameY="-1" frameWidth="401" frameHeight="751"/>
+	<SubTexture name="Teddybar Christmas up0001" x="1181" y="763" width="401" height="750" frameX="0" frameY="-1" frameWidth="401" frameHeight="751"/>
+	<SubTexture name="Teddybar Christmas up0002" x="1582" y="763" width="401" height="751"/>
+	<SubTexture name="Teddybar Christmas up0003" x="1582" y="763" width="401" height="751"/>
+	<SubTexture name="Teddybar Christmas up0004" x="1983" y="763" width="401" height="751"/>
+</TextureAtlas>

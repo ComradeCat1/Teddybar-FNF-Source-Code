@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Teddybar Idle",
+	"image": "Menu_Teddybar",
+	"position": [
+		58,
+		183
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}

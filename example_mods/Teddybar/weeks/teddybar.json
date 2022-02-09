@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Teddybar",
+			"teddybar",
+			[
+				150,
+				75,
+				0
+			]
+		],
+		[
+			"PWT",
+			"teddybar",
+			[
+				150,
+				75,
+				0
+			]
+		],
+		[
+			"Kindergarten",
+			"teddybar",
+			[
+				150,
+				75,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"teddybar",
+		"bf",
+		"gf"
+	],
+	"storyName": "Teddybar Kindergarten",
+	"weekName": "Teddybar Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

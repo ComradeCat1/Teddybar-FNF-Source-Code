@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "kindergarten",
+		"player1": "bf",
+		"player2": "teddybar-christmas",
+		"player3": null,
+		"events": [
+			[
+				67031.25,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				74531.25,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 128,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Jingle Bells"
+	}
+}

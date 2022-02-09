@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Teddybar Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Teddybar idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Teddybar Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Teddybar Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Teddybar idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Teddybar Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Teddybar Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Teddybar Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				15
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Teddybar Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Teddybar Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teddybar",
+	"position": [
+		100,
+		-30
+	],
+	"healthicon": "teddybar",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		75,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
